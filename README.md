@@ -2,7 +2,7 @@
 
 # What is this project?
 
-Movies App represent a list of movies, list of categories, search about movie and Save movie in Room Database
+Movies App represent a list of movies, list of categories, search about movie and Save movie in Room Database.
 
 # ScreenShots 📷
 <div align="center">
